@@ -2,6 +2,8 @@
 
 Add a simple widget to the WordPress dashboard. Ideally can be used to create quick access to certain sections of WordPress admin for clients.
 
+[![N|Solid](https://raw.githubusercontent.com/mikeott/simple-dashboard-widget/master/simple-dashboard-widget.png)](https://rocketapps.com.au/)
+
 # Installation
 
   - Download the archive, unzip
