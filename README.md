@@ -1,6 +1,6 @@
 # A simple widget for WordPress admin dashboard
 
-Add a simple widget to the WordPress dashboard. Ideally can be used to create quick access to certain sections of WordPress admin for clients.
+Add a simple widget to the WordPress dashboard. Ideally can be used to create quick access to certain sections of WordPress admin for clients that might be difficult for them to discover.
 
 [![N|Solid](https://raw.githubusercontent.com/mikeott/simple-dashboard-widget/master/simple-dashboard-widget.png)](https://rocketapps.com.au/)
 
