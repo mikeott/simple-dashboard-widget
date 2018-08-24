@@ -6,7 +6,7 @@ Add a simple widget to the WordPress dashboard. Ideally can be used to create qu
  - Uses the official [WP Dashboard icons](https://developer.wordpress.org/resource/dashicons/) for easy iconography
  - SCSS file included
 
-[![N|Solid](https://raw.githubusercontent.com/mikeott/simple-dashboard-widget/master/simple-dashboard-widget.png)](https://rocketapps.com.au/)
+![N|Solid](https://raw.githubusercontent.com/mikeott/simple-dashboard-widget/master/simple-dashboard-widget.png)
 
 # Installation
 
